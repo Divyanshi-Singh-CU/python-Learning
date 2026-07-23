@@ -5,5 +5,5 @@ num=input("enter any number")
 
 print("Name:",name)
 print("Age:",age)
-Print("City:",city)
+print("City:",city)
 print("Num:",num)
