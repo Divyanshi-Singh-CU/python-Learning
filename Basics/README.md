@@ -9,3 +9,4 @@ This folder contains beginner-level Python programs that introduce the fundament
 - Input and Output
 - Data Types
 - Type Conversion
+- Comments
