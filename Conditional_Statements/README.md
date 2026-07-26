@@ -4,8 +4,8 @@ This folder contains Python programs that demonstrate the use of conditional sta
 
 #Topics Covered
 
-if Statement
- if-else Statement
-if-elif-else Statement
-Nested if Statement
+-if Statement
+-if-else Statement
+-if-elif-else Statement
+-Nested if Statement
 
